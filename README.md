@@ -1,2 +1,3 @@
 # Snake Game
-A simple snake game to use for my ML project.
+A simple snake game with a ML implementation.
+
